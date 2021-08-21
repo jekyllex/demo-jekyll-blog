@@ -1,10 +1,3 @@
----
-layout: post
-title: First Post
-summary: Sample first post.
-categories: jekyllex
----
-
 An h1 header
 ============
 
@@ -40,3 +33,15 @@ Here's a numbered list:
  1. first item
  2. second item
  3. third item
+
+-----------
+
+Date: 21-08-2021
+
+This section was added from the JekyllEx Android to test if commits from Github Api work fine... ---
+layout: post
+title: First Post
+summary: Sample first post.
+categories: jekyllex
+---
+
