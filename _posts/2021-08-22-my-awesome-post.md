@@ -13,9 +13,7 @@ These is some random markdown for a dummy post.
 
 _This is italic text_
 
-
 ## Blockquotes
-
 
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
